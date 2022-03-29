@@ -94,6 +94,16 @@ print(out)
 ![网络图片](https://octodex.github.com/images/dinotocat.png)
 
 <br/>
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+<br/>
+- First item
+- Second item
+- Third item
+- Fourth item
+<br/>
 
 [跳转到other.md](./other.md)
 <br/>
