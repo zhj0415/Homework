@@ -91,13 +91,12 @@ print(out)
 <br/>
 
 <br/>
-* 无序列表 1
-+ 无序列表 2
-- 无序列表 3
-
-1. 有序列表 1
-2. 有序列表 2
-3. 有序列表 3
+1. First item
+2. Second item
+3. Third item
+ - Indented item
+ - Indented item
+4. Fourth item
 
 
 <br/>
