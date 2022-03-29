@@ -1,6 +1,6 @@
 ## Homework__Git和Github使用体会
 <br/>
-___这里是git的下载链接___
+__这里是git的下载链接__
 <br/>
 [Git的下载链接](https://git-scm.com/)
 
