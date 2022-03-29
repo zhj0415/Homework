@@ -2,7 +2,8 @@
 <br/>
 这里是git的下载链接
 <br/>
-[跳转到other.md](https://github.com/zhj0415/Homework/blob/main/other.md)
+[跳转到other.md](./other.md)
+<br/>
 [Git的下载链接](https://git-scm.com/)
 
 #### 大创的部分代码
