@@ -1,4 +1,5 @@
 ## Homework__Git和Github使用体会
+使用 Markdown 可以非常容易地为一些单词设置 **加粗** 而为另外一些单词设置 *倾斜*。
 <br/>
 这里是git的下载链接
 <br/>
