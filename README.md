@@ -89,10 +89,6 @@ print(out)
 #os.system('C:/Users/hp/Desktop/Dataset/0.wav')
 
 ```
-<br/>
-[Git的下载链接](https://git-scm.com/)
-<br/>
-[跳转到other.md](./other.md)
 * 无序列表 1
 + 无序列表 2
 - 无序列表 3
@@ -100,6 +96,12 @@ print(out)
 1. 有序列表 1
 2. 有序列表 2
 3. 有序列表 3
+<br/>
+[Git的下载链接](https://git-scm.com/)
+<br/>
+[跳转到other.md](./other.md)
+<br/>
+
 
 >一级引用
 引用结束
