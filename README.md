@@ -1,9 +1,4 @@
 ## Homework__Git和Github使用体会
-#### 如果你希望嵌入一张图片，可以这么做：
-![2021年杏花节图片](https://github.com/zhj0415/Homework/blob/main/Xinghua.JPG)
-![网络图片](https://octodex.github.com/images/dinotocat.png)
-
-<br/>
 #### 大创的部分代码
 ```javascript
 from keras.datasets import reuters
@@ -89,6 +84,13 @@ print(out)
 #os.system('C:/Users/hp/Desktop/Dataset/0.wav')
 
 ```
+#### 如果你希望嵌入一张图片，可以这么做：
+![2021年杏花节图片](https://github.com/zhj0415/Homework/blob/main/Xinghua.JPG)
+![网络图片](https://octodex.github.com/images/dinotocat.png)
+
+<br/>
+
+<br/>
 * 无序列表 1
 + 无序列表 2
 - 无序列表 3
