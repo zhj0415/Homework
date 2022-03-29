@@ -97,8 +97,12 @@ print(out)
  - Indented item
  - Indented item
 4. Fourth item
-
-
+<br/>
+| Name | Academy | score |
+| - | :-: | -: |
+| Harry Potter | Gryffindor| 90 |
+| Hermione Granger | Gryffindor | 100 |
+| Draco Malfoy | Slytherin | 90 |
 <br/>
 [Git的下载链接](https://git-scm.com/)
 <br/>
