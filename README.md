@@ -94,18 +94,18 @@ print(out)
 ![2021年杏花节图片](https://github.com/zhj0415/Homework/blob/main/Xinghua.JPG)
 ![网络图片](https://octodex.github.com/images/dinotocat.png)
 
-
-- First item
-- Second item
-- Third item
- - Indented item
- - Indented item
-- Fourth item
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
+无序列表
+- 张三
+- 王大
+- 李四
+ - 李五
+ - 李鑫
+- 武二
+有序列表
+1. 张三
+2. 李四
+3. 王大
+4. 武二
 
 姓名 | 学号
 ------------ | -------------
