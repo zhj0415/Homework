@@ -2,6 +2,6 @@
 #### 如果你希望嵌入一张图片，可以这么做：
  
 ![Yaktocat 的图片](https://github.com/zhj0415/Homework/blob/main/Xinghua.JPG)
-![Yaktocat 的图片](https://octodex.github.com/scubatocat/)
+![Yaktocat 的图片](https://octodex.github.com/scubatocat.png)
 [Git的下载链接](https://git-scm.com/)
 [跳转到other.md](./other.md)
