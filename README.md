@@ -1,4 +1,10 @@
 ## Homework__Git和Github使用体会
+<br/>
+这里是git的下载链接
+<br/>
+[跳转到other.md](./other.md)
+[Git的下载链接](https://git-scm.com/)
+
 #### 大创的部分代码
 ```javascript
 from keras.datasets import reuters
@@ -92,11 +98,5 @@ print(out)
 
 <br/>
 
-<br/>
-这里是git的下载链接
-<br/>
-[跳转到other.md](./other.md)
-[Git的下载链接](https://git-scm.com/)
-<br/>
-<br/>
+
 
