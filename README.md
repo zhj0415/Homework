@@ -95,8 +95,8 @@ print(out)
 <br/>
 这里是git的下载链接
 <br/>
+[跳转到other.md](./other.md)
 [Git的下载链接](https://git-scm.com/)
 <br/>
-[跳转到other.md](./other.md)
 <br/>
 
