@@ -1,8 +1,5 @@
 ## Homework__Git和Github使用体会
 #### 如果你希望嵌入一张图片，可以这么做：
->这是一则引用
->每行行尾没有双空格
->所以会显示为一行引用
 ![2021年杏花节图片](https://github.com/zhj0415/Homework/blob/main/Xinghua.JPG)
 ![网络图片](https://octodex.github.com/images/dinotocat.png)
 <br/>
@@ -92,6 +89,8 @@ print(out)
 
 ```
 <br/>
+>这是一则引用
 [Git的下载链接](https://git-scm.com/)
 <br/>
 [跳转到other.md](./other.md)
+
