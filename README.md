@@ -1,10 +1,9 @@
 ## Homework__Git和Github使用体会
 <br/>
-这里是git的下载链接
+***这里是git的下载链接***
 <br/>
 [Git的下载链接](https://git-scm.com/)
-This text is ***really
-important***.
+
 
 #### 大创的部分代码
 ```javascript
